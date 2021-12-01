@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on OOP with C++, mobile back-end and database management.
 
-<a href="https://stackoverflow.com/users/16002501/tims"><img src="https://stackoverflow.com/users/flair/16002501.png" width="208" height="58" alt="profile for Tim&#39;s at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tim&#39;s at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/21687256"><img src="https://stackexchange.com/users/flair/21687256.png" width="208" height="58" alt="profile for Tim&#39;s on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tim&#39;s on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 <!--
