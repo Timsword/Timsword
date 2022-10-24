@@ -1,8 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on 
 
-<a href="https://stackoverflow.com/users/16002501/tims"><img src="https://stackoverflow.com/users/flair/16002501.png" width="208" height="58" alt="profile for Tim&#39;s at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tim&#39;s at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 
 <!--
 **Timsword/Timsword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
