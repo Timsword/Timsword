@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on 
+🔭 I’m currently working on about ASP.NET and Angular.
 
 
 <!--
