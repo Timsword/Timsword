@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on about ASP.NET and Angular.
+🔭 I’m currently working on about API technologies with ASP.NET and Angular.
 
 
 <!--
