@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working about 
+<br>
 -API technologies with ASP.NET, Angular and PostgreSQL.
+<br>
 -Image analysis for face detection.
 
 
