@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working about 
 <br>
--API technologies with ASP.NET, Angular and PostgreSQL.
+-Web development with ASP.NET, Angular and PostgreSQL.
 <br>
 -Computer vision for face and humand detection.
 
