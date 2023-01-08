@@ -3,7 +3,7 @@
 <br>
 -API technologies with ASP.NET, Angular and PostgreSQL.
 <br>
--Image analysis for face detection.
+-Computer vision for face and humand detection.
 
 
 <!--
