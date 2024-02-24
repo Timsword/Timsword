@@ -3,7 +3,7 @@
 <br>
 -Web development with ASP.NET, Angular and PostgreSQL.
 <br>
--Computer vision for face and humand detection.
+-Text to speech generation
 
 
 <!--
