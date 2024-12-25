@@ -1,9 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working about 
-<br>
--Web development with ASP.NET, Angular and PostgreSQL.
-<br>
--Text to speech generation
+
 
 
 <!--
